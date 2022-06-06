@@ -1,5 +1,5 @@
 # Superintendent
-Another discord.js bot written in Typescript.
+Another discord.js bot written in TypeScript.
 
 ## Hosting
 ### Heroku
